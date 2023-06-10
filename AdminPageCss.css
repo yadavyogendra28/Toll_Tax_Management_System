@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+    margin: 0;
+    padding: 0;
+	background-image:url("photos/toll-road.jpg");
+	background-size: cover;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	visibility: 0.2px;
+	
+}
+
+
+.ad1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    font-style: oblique;
+    font-weight: bold;
+    font-variant: normal;
+    text-transform: uppercase;
+    color: rgba(43,117,205,1);
+    background-attachment: fixed;
+    background-color: rgba(167,161,161,1);
+    background-repeat: no-repeat;
+    background-position: left center;
+    letter-spacing: normal;
+    text-align: center;
+    
+    vertical-align: middle;
+    word-spacing: normal;
+    height: 70px;
+    width: auto;
+	border:3px double rgba(228,27,58,1.00);
+    margin-bottom:1px;
+  margin-top: 1px;
+}
+
+
+
+.ReBtn{width:100px; height: 50px;  margin: 30px;margin-top:30px;  }
+
+.logbtn{ position:absolute;
+	      left: 1300px;
+	top:15px;
+       }
+.lgbtimg{
+	 width: 50px;
+	height: 50px;
+}
